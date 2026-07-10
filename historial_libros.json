@@ -6,6 +6,10 @@
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 16940
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 16940
             }
         ]
     },
@@ -16,16 +20,24 @@
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 15740
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18730,
+        "precio_actual": 18810,
         "estado": "Disponible",
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 18730
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 18810
             }
         ]
     },
@@ -35,6 +47,10 @@
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
+                "precio": 9740
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
                 "precio": 9740
             }
         ]
@@ -46,6 +62,10 @@
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 15000
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 15000
             }
         ]
     },
@@ -55,6 +75,10 @@
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
+                "precio": 0
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
                 "precio": 0
             }
         ]
@@ -66,6 +90,10 @@
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 15740
             }
         ]
     },
@@ -75,6 +103,10 @@
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
+                "precio": 21200
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
                 "precio": 21200
             }
         ]
@@ -86,16 +118,24 @@
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 32350
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 32350
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 29250,
+        "precio_actual": 29540,
         "estado": "Disponible",
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
                 "precio": 29250
+            },
+            {
+                "fecha": "2026-07-10 15:36:01",
+                "precio": 29540
             }
         ]
     }
