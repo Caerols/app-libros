@@ -1,0 +1,102 @@
+{
+    "Fahrenheit 451 (Edición Conmemorativa)": {
+        "precio_actual": 16940,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 16940
+            }
+        ]
+    },
+    "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
+        "precio_actual": 15740,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 15740
+            }
+        ]
+    },
+    "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
+        "precio_actual": 18730,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 18730
+            }
+        ]
+    },
+    "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
+        "precio_actual": 9740,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 9740
+            }
+        ]
+    },
+    "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO (en spa)": {
+        "precio_actual": 15000,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 15000
+            }
+        ]
+    },
+    "Cadaver Exquisito - Agustina Bazterrica - Penguin": {
+        "precio_actual": 0,
+        "estado": "Agotado",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 0
+            }
+        ]
+    },
+    "Drácula - Stoker, Bram - Editorial Alma": {
+        "precio_actual": 15740,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 15740
+            }
+        ]
+    },
+    "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
+        "precio_actual": 21200,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 21200
+            }
+        ]
+    },
+    "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
+        "precio_actual": 32350,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 32350
+            }
+        ]
+    },
+    "el lobo estepario - hermann hesse - ": {
+        "precio_actual": 29250,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-10 04:09:03",
+                "precio": 29250
+            }
+        ]
+    }
+}
