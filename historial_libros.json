@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 22290,
+        "precio_actual": 19170,
         "estado": "Disponible",
         "historial": [
             {
@@ -18,6 +18,10 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 22290
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 19170
             }
         ]
     },
@@ -40,11 +44,15 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 15740
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 20960,
+        "precio_actual": 18810,
         "estado": "Disponible",
         "historial": [
             {
@@ -62,6 +70,10 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 20960
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 18810
             }
         ]
     },
@@ -83,6 +95,10 @@
             },
             {
                 "fecha": "2026-07-12 14:36:01",
+                "precio": 9740
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
                 "precio": 9740
             }
         ]
@@ -106,6 +122,10 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 15000
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 15000
             }
         ]
     },
@@ -127,6 +147,10 @@
             },
             {
                 "fecha": "2026-07-12 14:36:01",
+                "precio": 0
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
                 "precio": 0
             }
         ]
@@ -150,11 +174,15 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 15740
             }
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 24440,
+        "precio_actual": 22220,
         "estado": "Disponible",
         "historial": [
             {
@@ -172,11 +200,15 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 24440
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 22220
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 38820,
+        "precio_actual": 32350,
         "estado": "Disponible",
         "historial": [
             {
@@ -194,11 +226,15 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 38820
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 32350
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 32490,
+        "precio_actual": 29540,
         "estado": "Disponible",
         "historial": [
             {
@@ -216,6 +252,10 @@
             {
                 "fecha": "2026-07-12 14:36:01",
                 "precio": 32490
+            },
+            {
+                "fecha": "2026-07-13 15:46:07",
+                "precio": 29540
             }
         ]
     }
