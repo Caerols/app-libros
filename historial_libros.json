@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 22290,
+        "precio_actual": 22180,
         "estado": "Disponible",
         "historial": [
             {
@@ -30,11 +30,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 22290
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 22180
             }
         ]
     },
     "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
-        "precio_actual": 15740,
+        "precio_actual": 14690,
         "estado": "Disponible",
         "historial": [
             {
@@ -64,11 +68,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 14690
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 20960,
+        "precio_actual": 20860,
         "estado": "Disponible",
         "historial": [
             {
@@ -98,11 +106,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 20960
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 20860
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 9740,
+        "precio_actual": 9090,
         "estado": "Disponible",
         "historial": [
             {
@@ -132,6 +144,10 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 9740
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 9090
             }
         ]
     },
@@ -165,6 +181,10 @@
             },
             {
                 "fecha": "2026-07-15 14:58:05",
+                "precio": 15000
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
                 "precio": 15000
             }
         ]
@@ -200,11 +220,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 0
             }
         ]
     },
     "Drácula - Stoker, Bram - Editorial Alma": {
-        "precio_actual": 15740,
+        "precio_actual": 14690,
         "estado": "Disponible",
         "historial": [
             {
@@ -234,11 +258,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 15740
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 14690
             }
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 24440,
+        "precio_actual": 24320,
         "estado": "Disponible",
         "historial": [
             {
@@ -268,11 +296,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 24440
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 24320
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 38820,
+        "precio_actual": 38750,
         "estado": "Disponible",
         "historial": [
             {
@@ -302,11 +334,15 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 38820
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 38750
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 32490,
+        "precio_actual": 32300,
         "estado": "Disponible",
         "historial": [
             {
@@ -336,6 +372,10 @@
             {
                 "fecha": "2026-07-15 14:58:05",
                 "precio": 32490
+            },
+            {
+                "fecha": "2026-07-16 15:08:28",
+                "precio": 32300
             }
         ]
     }
