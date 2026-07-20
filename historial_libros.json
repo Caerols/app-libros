@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 19050,
+        "precio_actual": 20160,
         "estado": "Disponible",
         "historial": [
             {
@@ -46,6 +46,10 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 19050
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 20160
             }
         ]
     },
@@ -96,11 +100,15 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 18890
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18710,
+        "precio_actual": 18970,
         "estado": "Disponible",
         "historial": [
             {
@@ -146,6 +154,10 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 18710
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 18970
             }
         ]
     },
@@ -195,6 +207,10 @@
             },
             {
                 "fecha": "2026-07-19 14:25:37",
+                "precio": 10390
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
                 "precio": 10390
             }
         ]
@@ -246,6 +262,10 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 15000
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 15000
             }
         ]
     },
@@ -295,6 +315,10 @@
             },
             {
                 "fecha": "2026-07-19 14:25:37",
+                "precio": 0
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
                 "precio": 0
             }
         ]
@@ -346,6 +370,10 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 18890
             }
         ]
     },
@@ -396,11 +424,15 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 22110
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 22110
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32290,
+        "precio_actual": 35520,
         "estado": "Disponible",
         "historial": [
             {
@@ -446,6 +478,10 @@
             {
                 "fecha": "2026-07-19 14:25:37",
                 "precio": 32290
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
+                "precio": 35520
             }
         ]
     },
@@ -495,6 +531,10 @@
             },
             {
                 "fecha": "2026-07-19 14:25:37",
+                "precio": 29370
+            },
+            {
+                "fecha": "2026-07-20 15:16:35",
                 "precio": 29370
             }
         ]
