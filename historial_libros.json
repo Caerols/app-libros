@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20160,
+        "precio_actual": 19050,
         "estado": "Disponible",
         "historial": [
             {
@@ -50,11 +50,15 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 20160
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 19050
             }
         ]
     },
     "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
-        "precio_actual": 18890,
+        "precio_actual": 17840,
         "estado": "Disponible",
         "historial": [
             {
@@ -104,11 +108,15 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 17840
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18970,
+        "precio_actual": 18710,
         "estado": "Disponible",
         "historial": [
             {
@@ -158,6 +166,10 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 18970
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 18710
             }
         ]
     },
@@ -211,6 +223,10 @@
             },
             {
                 "fecha": "2026-07-20 15:16:35",
+                "precio": 10390
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
                 "precio": 10390
             }
         ]
@@ -266,6 +282,10 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 15000
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 15000
             }
         ]
     },
@@ -320,11 +340,15 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 0
             }
         ]
     },
     "Drácula - Stoker, Bram - Editorial Alma": {
-        "precio_actual": 18890,
+        "precio_actual": 17840,
         "estado": "Disponible",
         "historial": [
             {
@@ -374,6 +398,10 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 17840
             }
         ]
     },
@@ -428,11 +456,15 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 22110
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 22110
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 35520,
+        "precio_actual": 32290,
         "estado": "Disponible",
         "historial": [
             {
@@ -482,6 +514,10 @@
             {
                 "fecha": "2026-07-20 15:16:35",
                 "precio": 35520
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
+                "precio": 32290
             }
         ]
     },
@@ -535,6 +571,10 @@
             },
             {
                 "fecha": "2026-07-20 15:16:35",
+                "precio": 29370
+            },
+            {
+                "fecha": "2026-07-21 15:09:19",
                 "precio": 29370
             }
         ]
