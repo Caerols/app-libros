@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 19050,
+        "precio_actual": 19170,
         "estado": "Disponible",
         "historial": [
             {
@@ -58,6 +58,10 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 19050
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 19170
             }
         ]
     },
@@ -120,11 +124,15 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 18890
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18710,
+        "precio_actual": 18810,
         "estado": "Disponible",
         "historial": [
             {
@@ -182,6 +190,10 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 18710
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 18810
             }
         ]
     },
@@ -243,6 +255,10 @@
             },
             {
                 "fecha": "2026-07-22 15:09:06",
+                "precio": 10390
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
                 "precio": 10390
             }
         ]
@@ -306,6 +322,10 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 15000
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 15000
             }
         ]
     },
@@ -367,6 +387,10 @@
             },
             {
                 "fecha": "2026-07-22 15:09:06",
+                "precio": 0
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
                 "precio": 0
             }
         ]
@@ -430,11 +454,15 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 18890
             }
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22110,
+        "precio_actual": 22490,
         "estado": "Disponible",
         "historial": [
             {
@@ -492,11 +520,15 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 22110
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 22490
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32290,
+        "precio_actual": 32460,
         "estado": "Disponible",
         "historial": [
             {
@@ -554,11 +586,15 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 32290
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 32460
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 29370,
+        "precio_actual": 29850,
         "estado": "Disponible",
         "historial": [
             {
@@ -616,6 +652,20 @@
             {
                 "fecha": "2026-07-22 15:09:06",
                 "precio": 29370
+            },
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 29850
+            }
+        ]
+    },
+    "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
+        "precio_actual": 132360,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-23 15:16:47",
+                "precio": 132360
             }
         ]
     }
