@@ -74,11 +74,15 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 19170
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 19170
             }
         ]
     },
     "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
-        "precio_actual": 17840,
+        "precio_actual": 18890,
         "estado": "Disponible",
         "historial": [
             {
@@ -152,6 +156,10 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 17840
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 18890
             }
         ]
     },
@@ -229,6 +237,10 @@
             },
             {
                 "fecha": "2026-07-26 14:41:57",
+                "precio": 18810
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
                 "precio": 18810
             }
         ]
@@ -308,6 +320,10 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 10390
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 10390
             }
         ]
     },
@@ -385,6 +401,10 @@
             },
             {
                 "fecha": "2026-07-26 14:41:57",
+                "precio": 22890
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
                 "precio": 22890
             }
         ]
@@ -464,11 +484,15 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 0
             }
         ]
     },
     "Drácula - Stoker, Bram - Editorial Alma": {
-        "precio_actual": 17840,
+        "precio_actual": 18890,
         "estado": "Disponible",
         "historial": [
             {
@@ -542,6 +566,10 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 17840
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 18890
             }
         ]
     },
@@ -619,6 +647,10 @@
             },
             {
                 "fecha": "2026-07-26 14:41:57",
+                "precio": 22490
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
                 "precio": 22490
             }
         ]
@@ -698,6 +730,10 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 32460
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 32460
             }
         ]
     },
@@ -776,6 +812,10 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 29850
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 29850
             }
         ]
     },
@@ -798,6 +838,30 @@
             {
                 "fecha": "2026-07-26 14:41:57",
                 "precio": 132360
+            },
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 132360
+            }
+        ]
+    },
+    "1984. Novela gráfica - Matyáis Namai - Blume": {
+        "precio_actual": 33070,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 33070
+            }
+        ]
+    },
+    "Espíritus y Criaturas de Japón - Benjamin Lacombe - Edelvives": {
+        "precio_actual": 43920,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-07-27 15:48:14",
+                "precio": 43920
             }
         ]
     }
