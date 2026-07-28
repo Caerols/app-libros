@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 19170,
+        "precio_actual": 20560,
         "estado": "Disponible",
         "historial": [
             {
@@ -78,11 +78,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 19170
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 20560
             }
         ]
     },
     "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
-        "precio_actual": 18890,
+        "precio_actual": 17000,
         "estado": "Disponible",
         "historial": [
             {
@@ -160,11 +164,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 17000
             }
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18810,
+        "precio_actual": 19380,
         "estado": "Disponible",
         "historial": [
             {
@@ -242,6 +250,10 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 18810
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 19380
             }
         ]
     },
@@ -324,11 +336,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 10390
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 10390
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO (en spa)": {
-        "precio_actual": 22890,
+        "precio_actual": 23390,
         "estado": "Disponible",
         "historial": [
             {
@@ -406,6 +422,10 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 22890
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 23390
             }
         ]
     },
@@ -488,11 +508,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 0
             }
         ]
     },
     "Drácula - Stoker, Bram - Editorial Alma": {
-        "precio_actual": 18890,
+        "precio_actual": 17000,
         "estado": "Disponible",
         "historial": [
             {
@@ -570,11 +594,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 18890
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 17000
             }
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22490,
+        "precio_actual": 22520,
         "estado": "Disponible",
         "historial": [
             {
@@ -652,11 +680,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 22490
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 22520
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32460,
+        "precio_actual": 37350,
         "estado": "Disponible",
         "historial": [
             {
@@ -734,6 +766,10 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 32460
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 37350
             }
         ]
     },
@@ -816,11 +852,15 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 29850
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 29850
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 132360,
+        "precio_actual": 145590,
         "estado": "Disponible",
         "historial": [
             {
@@ -842,6 +882,10 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 132360
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 145590
             }
         ]
     },
@@ -852,16 +896,24 @@
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 33070
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 33070
             }
         ]
     },
     "Espíritus y Criaturas de Japón - Benjamin Lacombe - Edelvives": {
-        "precio_actual": 43920,
+        "precio_actual": 39530,
         "estado": "Disponible",
         "historial": [
             {
                 "fecha": "2026-07-27 15:48:14",
                 "precio": 43920
+            },
+            {
+                "fecha": "2026-07-28 15:26:41",
+                "precio": 39530
             }
         ]
     }
