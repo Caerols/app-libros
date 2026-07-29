@@ -82,11 +82,15 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 20560
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 20560
             }
         ]
     },
     "El Arte de Tener Siempre Razon - Schopenhauer, Arthur - Editorial Alma": {
-        "precio_actual": 17000,
+        "precio_actual": 18890,
         "estado": "Disponible",
         "historial": [
             {
@@ -168,6 +172,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 17000
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 18890
             }
         ]
     },
@@ -253,6 +261,10 @@
             },
             {
                 "fecha": "2026-07-28 15:26:41",
+                "precio": 19380
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
                 "precio": 19380
             }
         ]
@@ -340,6 +352,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 10390
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 10390
             }
         ]
     },
@@ -425,6 +441,10 @@
             },
             {
                 "fecha": "2026-07-28 15:26:41",
+                "precio": 23390
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
                 "precio": 23390
             }
         ]
@@ -512,11 +532,15 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 0
             }
         ]
     },
     "Drácula - Stoker, Bram - Editorial Alma": {
-        "precio_actual": 17000,
+        "precio_actual": 18890,
         "estado": "Disponible",
         "historial": [
             {
@@ -598,11 +622,15 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 17000
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 18890
             }
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22520,
+        "precio_actual": 22490,
         "estado": "Disponible",
         "historial": [
             {
@@ -684,11 +712,15 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 22520
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 22490
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 37350,
+        "precio_actual": 32460,
         "estado": "Disponible",
         "historial": [
             {
@@ -770,6 +802,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 37350
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 32460
             }
         ]
     },
@@ -856,6 +892,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 29850
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 29850
             }
         ]
     },
@@ -886,6 +926,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 145590
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 145590
             }
         ]
     },
@@ -900,11 +944,15 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 33070
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 33070
             }
         ]
     },
     "Espíritus y Criaturas de Japón - Benjamin Lacombe - Edelvives": {
-        "precio_actual": 39530,
+        "precio_actual": 43920,
         "estado": "Disponible",
         "historial": [
             {
@@ -914,6 +962,10 @@
             {
                 "fecha": "2026-07-28 15:26:41",
                 "precio": 39530
+            },
+            {
+                "fecha": "2026-07-29 15:12:32",
+                "precio": 43920
             }
         ]
     }
