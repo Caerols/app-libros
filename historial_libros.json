@@ -138,6 +138,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 18970
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 18970
             }
         ]
     },
@@ -394,11 +398,15 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 18640
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 18640
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 10420,
+        "precio_actual": 11690,
         "estado": "Disponible",
         "historial": [
             {
@@ -536,6 +544,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 10420
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 11690
             }
         ]
     },
@@ -678,6 +690,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 22640
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 22640
             }
         ]
     },
@@ -819,6 +835,10 @@
             },
             {
                 "fecha": "2026-08-11 14:22:13",
+                "precio": 0
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
                 "precio": 0
             }
         ]
@@ -1076,6 +1096,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 20970
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 20970
             }
         ]
     },
@@ -1217,6 +1241,10 @@
             },
             {
                 "fecha": "2026-08-11 14:22:13",
+                "precio": 30890
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
                 "precio": 30890
             }
         ]
@@ -1360,11 +1388,15 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 32600
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 32600
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 143720,
+        "precio_actual": 148410,
         "estado": "Disponible",
         "historial": [
             {
@@ -1446,6 +1478,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 143720
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 148410
             }
         ]
     },
@@ -1516,6 +1552,10 @@
             {
                 "fecha": "2026-08-11 14:22:13",
                 "precio": 38810
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
+                "precio": 38810
             }
         ]
     },
@@ -1585,6 +1625,10 @@
             },
             {
                 "fecha": "2026-08-11 14:22:13",
+                "precio": 41150
+            },
+            {
+                "fecha": "2026-08-12 14:22:33",
                 "precio": 41150
             }
         ]
