@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 18970,
+        "precio_actual": 18940,
         "estado": "Disponible",
         "historial": [
             {
@@ -142,6 +142,10 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 18970
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 18940
             }
         ]
     },
@@ -260,7 +264,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18640,
+        "precio_actual": 18610,
         "estado": "Disponible",
         "historial": [
             {
@@ -402,6 +406,10 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 18640
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 18610
             }
         ]
     },
@@ -548,11 +556,15 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 11690
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 11690
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO (en spa)": {
-        "precio_actual": 22640,
+        "precio_actual": 22600,
         "estado": "Disponible",
         "historial": [
             {
@@ -694,6 +706,10 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 22640
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 22600
             }
         ]
     },
@@ -840,6 +856,10 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 0
             }
         ]
     },
@@ -958,7 +978,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 20970,
+        "precio_actual": 20930,
         "estado": "Disponible",
         "historial": [
             {
@@ -1100,11 +1120,15 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 20970
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 20930
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 30890,
+        "precio_actual": 30830,
         "estado": "Disponible",
         "historial": [
             {
@@ -1246,11 +1270,15 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 30890
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 30830
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 32600,
+        "precio_actual": 32480,
         "estado": "Disponible",
         "historial": [
             {
@@ -1392,11 +1420,15 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 32600
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 32480
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 148410,
+        "precio_actual": 147950,
         "estado": "Disponible",
         "historial": [
             {
@@ -1482,11 +1514,15 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 148410
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 147950
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 38810,
+        "precio_actual": 38650,
         "estado": "Disponible",
         "historial": [
             {
@@ -1556,6 +1592,10 @@
             {
                 "fecha": "2026-08-12 14:22:33",
                 "precio": 38810
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
+                "precio": 38650
             }
         ]
     },
@@ -1629,6 +1669,10 @@
             },
             {
                 "fecha": "2026-08-12 14:22:33",
+                "precio": 41150
+            },
+            {
+                "fecha": "2026-08-13 14:24:41",
                 "precio": 41150
             }
         ]
