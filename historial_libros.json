@@ -150,6 +150,10 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 18940
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 18940
             }
         ]
     },
@@ -418,11 +422,15 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 18610
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 18610
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 11690,
+        "precio_actual": 10520,
         "estado": "Disponible",
         "historial": [
             {
@@ -572,6 +580,10 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 11690
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 10520
             }
         ]
     },
@@ -880,6 +892,10 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 0
             }
         ]
     },
@@ -1148,11 +1164,15 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 20930
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 20930
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 30830,
+        "precio_actual": 28030,
         "estado": "Disponible",
         "historial": [
             {
@@ -1302,6 +1322,10 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 30830
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 28030
             }
         ]
     },
@@ -1456,11 +1480,15 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 29530
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 29530
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 147950,
+        "precio_actual": 142980,
         "estado": "Disponible",
         "historial": [
             {
@@ -1554,6 +1582,10 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 147950
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 142980
             }
         ]
     },
@@ -1635,6 +1667,10 @@
             },
             {
                 "fecha": "2026-08-14 14:17:43",
+                "precio": 35140
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
                 "precio": 35140
             }
         ]
@@ -1718,6 +1754,20 @@
             {
                 "fecha": "2026-08-14 14:17:43",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 41150
+            }
+        ]
+    },
+    "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
+        "precio_actual": 22600,
+        "estado": "Disponible",
+        "historial": [
+            {
+                "fecha": "2026-08-15 13:35:55",
+                "precio": 22600
             }
         ]
     }
