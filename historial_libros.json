@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20830,
+        "precio_actual": 20670,
         "estado": "Disponible",
         "historial": [
             {
@@ -162,6 +162,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 20830
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 20670
             }
         ]
     },
@@ -280,7 +284,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19800,
+        "precio_actual": 19550,
         "estado": "Disponible",
         "historial": [
             {
@@ -442,6 +446,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 19800
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 19550
             }
         ]
     },
@@ -607,6 +615,10 @@
             },
             {
                 "fecha": "2026-08-17 13:43:57",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
                 "precio": 9090
             }
         ]
@@ -928,6 +940,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 0
             }
         ]
     },
@@ -1046,7 +1062,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 23020,
+        "precio_actual": 22600,
         "estado": "Disponible",
         "historial": [
             {
@@ -1208,6 +1224,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 23020
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 22600
             }
         ]
     },
@@ -1374,11 +1394,15 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 30830
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 30830
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 32480,
+        "precio_actual": 29820,
         "estado": "Disponible",
         "historial": [
             {
@@ -1540,6 +1564,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 32480
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 29820
             }
         ]
     },
@@ -1650,11 +1678,15 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 157270
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 157270
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 38650,
+        "precio_actual": 35470,
         "estado": "Disponible",
         "historial": [
             {
@@ -1744,6 +1776,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 38650
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 35470
             }
         ]
     },
@@ -1838,11 +1874,15 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 24610,
+        "precio_actual": 23500,
         "estado": "Disponible",
         "historial": [
             {
@@ -1856,6 +1896,10 @@
             {
                 "fecha": "2026-08-17 13:43:57",
                 "precio": 24610
+            },
+            {
+                "fecha": "2026-08-18 13:48:29",
+                "precio": 23500
             }
         ]
     }
