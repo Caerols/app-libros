@@ -186,6 +186,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 20920
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 20920
             }
         ]
     },
@@ -490,6 +494,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 19770
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 19770
             }
         ]
     },
@@ -679,6 +687,10 @@
             },
             {
                 "fecha": "2026-08-23 13:37:25",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
                 "precio": 9090
             }
         ]
@@ -1024,6 +1036,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 0
             }
         ]
     },
@@ -1142,7 +1158,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 21420,
+        "precio_actual": 22900,
         "estado": "Disponible",
         "historial": [
             {
@@ -1328,11 +1344,15 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 21420
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 22900
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 28330,
+        "precio_actual": 31160,
         "estado": "Disponible",
         "historial": [
             {
@@ -1518,6 +1538,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 28330
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 31160
             }
         ]
     },
@@ -1708,6 +1732,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 30270
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 30270
             }
         ]
     },
@@ -1842,6 +1870,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 159700
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 159700
             }
         ]
     },
@@ -1959,6 +1991,10 @@
             },
             {
                 "fecha": "2026-08-23 13:37:25",
+                "precio": 33550
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
                 "precio": 33550
             }
         ]
@@ -2078,11 +2114,15 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 22570,
+        "precio_actual": 23800,
         "estado": "Disponible",
         "historial": [
             {
@@ -2120,6 +2160,10 @@
             {
                 "fecha": "2026-08-23 13:37:25",
                 "precio": 22570
+            },
+            {
+                "fecha": "2026-08-24 13:56:24",
+                "precio": 23800
             }
         ]
     }
