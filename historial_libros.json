@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20920,
+        "precio_actual": 20610,
         "estado": "Disponible",
         "historial": [
             {
@@ -190,6 +190,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 20920
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 20610
             }
         ]
     },
@@ -308,7 +312,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19770,
+        "precio_actual": 18680,
         "estado": "Disponible",
         "historial": [
             {
@@ -498,6 +502,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 19770
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 18680
             }
         ]
     },
@@ -691,6 +699,10 @@
             },
             {
                 "fecha": "2026-08-24 13:56:24",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
                 "precio": 9090
             }
         ]
@@ -1040,6 +1052,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 0
             }
         ]
     },
@@ -1158,7 +1174,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22900,
+        "precio_actual": 21030,
         "estado": "Disponible",
         "historial": [
             {
@@ -1348,6 +1364,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 22900
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 21030
             }
         ]
     },
@@ -1541,6 +1561,10 @@
             },
             {
                 "fecha": "2026-08-24 13:56:24",
+                "precio": 31160
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
                 "precio": 31160
             }
         ]
@@ -1736,11 +1760,15 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 30270
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 30270
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 159700,
+        "precio_actual": 145180,
         "estado": "Disponible",
         "historial": [
             {
@@ -1874,6 +1902,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 159700
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 145180
             }
         ]
     },
@@ -1995,6 +2027,10 @@
             },
             {
                 "fecha": "2026-08-24 13:56:24",
+                "precio": 33550
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
                 "precio": 33550
             }
         ]
@@ -2118,11 +2154,15 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 23800,
+        "precio_actual": 22700,
         "estado": "Disponible",
         "historial": [
             {
@@ -2164,6 +2204,10 @@
             {
                 "fecha": "2026-08-24 13:56:24",
                 "precio": 23800
+            },
+            {
+                "fecha": "2026-08-25 13:55:03",
+                "precio": 22700
             }
         ]
     }
