@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 12840,
+        "precio_actual": 16050,
         "estado": "Disponible",
         "historial": [
             {
@@ -206,6 +206,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 12840
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 16050
             }
         ]
     },
@@ -324,7 +328,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 16620,
+        "precio_actual": 19730,
         "estado": "Disponible",
         "historial": [
             {
@@ -530,6 +534,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 16620
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 19730
             }
         ]
     },
@@ -739,6 +747,10 @@
             },
             {
                 "fecha": "2026-08-28 22:58:51",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
                 "precio": 9090
             }
         ]
@@ -1104,6 +1116,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 0
             }
         ]
     },
@@ -1222,7 +1238,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 21000,
+        "precio_actual": 22620,
         "estado": "Disponible",
         "historial": [
             {
@@ -1428,11 +1444,15 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 21000
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 22620
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 28250,
+        "precio_actual": 31080,
         "estado": "Disponible",
         "historial": [
             {
@@ -1638,6 +1658,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 28250
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 31080
             }
         ]
     },
@@ -1848,11 +1872,15 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 30190
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 30190
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 144680,
+        "precio_actual": 159150,
         "estado": "Disponible",
         "historial": [
             {
@@ -2002,6 +2030,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 144680
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 159150
             }
         ]
     },
@@ -2139,6 +2171,10 @@
             },
             {
                 "fecha": "2026-08-28 22:58:51",
+                "precio": 33460
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
                 "precio": 33460
             }
         ]
@@ -2278,11 +2314,15 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 22530,
+        "precio_actual": 23750,
         "estado": "Disponible",
         "historial": [
             {
@@ -2340,6 +2380,10 @@
             {
                 "fecha": "2026-08-28 22:58:51",
                 "precio": 22530
+            },
+            {
+                "fecha": "2026-08-29 17:03:13",
+                "precio": 23750
             }
         ]
     }
