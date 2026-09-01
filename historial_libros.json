@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20880,
+        "precio_actual": 20590,
         "estado": "Disponible",
         "historial": [
             {
@@ -218,6 +218,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 20880
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 20590
             }
         ]
     },
@@ -336,7 +340,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19730,
+        "precio_actual": 18660,
         "estado": "Disponible",
         "historial": [
             {
@@ -554,11 +558,15 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 19730
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 18660
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 9090,
+        "precio_actual": 11690,
         "estado": "Disponible",
         "historial": [
             {
@@ -776,6 +784,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 9090
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 11690
             }
         ]
     },
@@ -1152,6 +1164,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 0
             }
         ]
     },
@@ -1270,7 +1286,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22620,
+        "precio_actual": 21000,
         "estado": "Disponible",
         "historial": [
             {
@@ -1488,6 +1504,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 22620
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 21000
             }
         ]
     },
@@ -1709,6 +1729,10 @@
             },
             {
                 "fecha": "2026-08-31 19:28:03",
+                "precio": 32100
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
                 "precio": 32100
             }
         ]
@@ -1932,11 +1956,15 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 30190
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 30190
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 159150,
+        "precio_actual": 163880,
         "estado": "Disponible",
         "historial": [
             {
@@ -2098,6 +2126,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 159150
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 163880
             }
         ]
     },
@@ -2247,6 +2279,10 @@
             },
             {
                 "fecha": "2026-08-31 19:28:03",
+                "precio": 33460
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
                 "precio": 33460
             }
         ]
@@ -2398,11 +2434,15 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 23750,
+        "precio_actual": 22670,
         "estado": "Disponible",
         "historial": [
             {
@@ -2472,6 +2512,10 @@
             {
                 "fecha": "2026-08-31 19:28:03",
                 "precio": 23750
+            },
+            {
+                "fecha": "2026-09-01 17:16:40",
+                "precio": 22670
             }
         ]
     }
