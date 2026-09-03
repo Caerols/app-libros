@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20590,
+        "precio_actual": 20810,
         "estado": "Disponible",
         "historial": [
             {
@@ -226,6 +226,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 20590
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 20810
             }
         ]
     },
@@ -344,7 +348,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18660,
+        "precio_actual": 18830,
         "estado": "Disponible",
         "historial": [
             {
@@ -570,6 +574,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 18660
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 18830
             }
         ]
     },
@@ -799,6 +807,10 @@
             },
             {
                 "fecha": "2026-09-02 17:05:56",
+                "precio": 11690
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
                 "precio": 11690
             }
         ]
@@ -1184,6 +1196,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 0
             }
         ]
     },
@@ -1302,7 +1318,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 21000,
+        "precio_actual": 21240,
         "estado": "Disponible",
         "historial": [
             {
@@ -1528,11 +1544,15 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 21000
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 21240
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32100,
+        "precio_actual": 32440,
         "estado": "Disponible",
         "historial": [
             {
@@ -1758,11 +1778,15 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 32100
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 32440
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 30190,
+        "precio_actual": 30510,
         "estado": "Disponible",
         "historial": [
             {
@@ -1988,6 +2012,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 30190
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 30510
             }
         ]
     },
@@ -2162,11 +2190,15 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 0
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 33460,
+        "precio_actual": 33810,
         "estado": "Disponible",
         "historial": [
             {
@@ -2320,6 +2352,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 33460
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 33810
             }
         ]
     },
@@ -2478,11 +2514,15 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 22670,
+        "precio_actual": 22920,
         "estado": "Disponible",
         "historial": [
             {
@@ -2560,6 +2600,10 @@
             {
                 "fecha": "2026-09-02 17:05:56",
                 "precio": 22670
+            },
+            {
+                "fecha": "2026-09-03 16:59:40",
+                "precio": 22920
             }
         ]
     }
