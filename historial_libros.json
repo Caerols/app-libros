@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20810,
+        "precio_actual": 21060,
         "estado": "Disponible",
         "historial": [
             {
@@ -242,6 +242,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 20810
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 21060
             }
         ]
     },
@@ -360,7 +364,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18830,
+        "precio_actual": 19880,
         "estado": "Disponible",
         "historial": [
             {
@@ -602,6 +606,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 18830
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 19880
             }
         ]
     },
@@ -847,6 +855,10 @@
             },
             {
                 "fecha": "2026-09-06 16:08:03",
+                "precio": 19880
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
                 "precio": 19880
             }
         ]
@@ -1248,6 +1260,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 0
             }
         ]
     },
@@ -1366,7 +1382,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 21240,
+        "precio_actual": 22930,
         "estado": "Disponible",
         "historial": [
             {
@@ -1608,11 +1624,15 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 21240
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 22930
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 29500,
+        "precio_actual": 32440,
         "estado": "Disponible",
         "historial": [
             {
@@ -1854,6 +1874,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 29500
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 32440
             }
         ]
     },
@@ -2100,6 +2124,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 30510
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 30510
             }
         ]
     },
@@ -2290,6 +2318,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 0
             }
         ]
     },
@@ -2463,6 +2495,10 @@
             },
             {
                 "fecha": "2026-09-06 16:08:03",
+                "precio": 33810
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
                 "precio": 33810
             }
         ]
@@ -2638,11 +2674,15 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 22920,
+        "precio_actual": 23960,
         "estado": "Disponible",
         "historial": [
             {
@@ -2736,6 +2776,10 @@
             {
                 "fecha": "2026-09-06 16:08:03",
                 "precio": 22920
+            },
+            {
+                "fecha": "2026-09-07 18:11:58",
+                "precio": 23960
             }
         ]
     }
