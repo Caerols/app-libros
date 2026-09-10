@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 21060,
+        "precio_actual": 20960,
         "estado": "Disponible",
         "historial": [
             {
@@ -254,6 +254,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 21060
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 20960
             }
         ]
     },
@@ -372,7 +376,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19880,
+        "precio_actual": 19800,
         "estado": "Disponible",
         "historial": [
             {
@@ -626,11 +630,15 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 19880
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 19800
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19880,
+        "precio_actual": 19800,
         "estado": "Disponible",
         "historial": [
             {
@@ -884,6 +892,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 19880
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 19800
             }
         ]
     },
@@ -1296,6 +1308,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 0
             }
         ]
     },
@@ -1414,7 +1430,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22930,
+        "precio_actual": 22810,
         "estado": "Disponible",
         "historial": [
             {
@@ -1668,11 +1684,15 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 22930
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 22810
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32440,
+        "precio_actual": 32270,
         "estado": "Disponible",
         "historial": [
             {
@@ -1926,11 +1946,15 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 32440
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 32270
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 30510,
+        "precio_actual": 30320,
         "estado": "Disponible",
         "historial": [
             {
@@ -2184,6 +2208,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 30510
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 30320
             }
         ]
     },
@@ -2386,11 +2414,15 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 0
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 34230,
+        "precio_actual": 34020,
         "estado": "Disponible",
         "historial": [
             {
@@ -2572,6 +2604,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 34230
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 34020
             }
         ]
     },
@@ -2758,11 +2794,15 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 23960,
+        "precio_actual": 23840,
         "estado": "Disponible",
         "historial": [
             {
@@ -2868,6 +2908,10 @@
             {
                 "fecha": "2026-09-09 17:06:00",
                 "precio": 23960
+            },
+            {
+                "fecha": "2026-09-10 16:57:07",
+                "precio": 23840
             }
         ]
     }
