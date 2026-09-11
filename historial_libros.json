@@ -1,6 +1,6 @@
 {
     "Fahrenheit 451 (Edición Conmemorativa)": {
-        "precio_actual": 20960,
+        "precio_actual": 9100,
         "estado": "Disponible",
         "historial": [
             {
@@ -258,6 +258,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 20960
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 9100
             }
         ]
     },
@@ -634,11 +638,15 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 19800
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 19800
             }
         ]
     },
     "Alicia a Través del Espejo - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19800,
+        "precio_actual": 9090,
         "estado": "Disponible",
         "historial": [
             {
@@ -896,6 +904,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 19800
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 9090
             }
         ]
     },
@@ -1054,8 +1066,8 @@
         ]
     },
     "Cadaver Exquisito - Agustina Bazterrica - Penguin": {
-        "precio_actual": 0,
-        "estado": "Agotado",
+        "precio_actual": 16200,
+        "estado": "Disponible",
         "historial": [
             {
                 "fecha": "2026-07-10 04:09:03",
@@ -1312,6 +1324,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 16200
             }
         ]
     },
@@ -1688,6 +1704,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 22810
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 22810
             }
         ]
     },
@@ -1949,6 +1969,10 @@
             },
             {
                 "fecha": "2026-09-10 16:57:07",
+                "precio": 32270
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
                 "precio": 32270
             }
         ]
@@ -2212,6 +2236,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 30320
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 30320
             }
         ]
     },
@@ -2418,11 +2446,15 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 0
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 34020,
+        "precio_actual": 33590,
         "estado": "Disponible",
         "historial": [
             {
@@ -2608,6 +2640,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 34020
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 33590
             }
         ]
     },
@@ -2798,11 +2834,15 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 23840,
+        "precio_actual": 9750,
         "estado": "Disponible",
         "historial": [
             {
@@ -2912,6 +2952,10 @@
             {
                 "fecha": "2026-09-10 16:57:07",
                 "precio": 23840
+            },
+            {
+                "fecha": "2026-09-11 16:58:51",
+                "precio": 9750
             }
         ]
     }
