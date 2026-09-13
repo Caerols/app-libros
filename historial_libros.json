@@ -646,6 +646,10 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 19800
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 19800
             }
         ]
     },
@@ -915,6 +919,10 @@
             },
             {
                 "fecha": "2026-09-12 16:08:59",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
                 "precio": 9090
             }
         ]
@@ -1340,6 +1348,10 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 18000
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 18000
             }
         ]
     },
@@ -1724,6 +1736,10 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 22810
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 22810
             }
         ]
     },
@@ -1993,6 +2009,10 @@
             },
             {
                 "fecha": "2026-09-12 16:08:59",
+                "precio": 32270
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
                 "precio": 32270
             }
         ]
@@ -2264,12 +2284,16 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 30320
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 30320
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 163120,
-        "estado": "Disponible",
+        "precio_actual": 0,
+        "estado": "Agotado",
         "historial": [
             {
                 "fecha": "2026-07-23 15:16:47",
@@ -2478,6 +2502,10 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 163120
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 0
             }
         ]
     },
@@ -2675,6 +2703,10 @@
             },
             {
                 "fecha": "2026-09-12 16:08:59",
+                "precio": 33590
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
                 "precio": 33590
             }
         ]
@@ -2874,6 +2906,10 @@
             {
                 "fecha": "2026-09-12 16:08:59",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
+                "precio": 41150
             }
         ]
     },
@@ -2995,6 +3031,10 @@
             },
             {
                 "fecha": "2026-09-12 16:08:59",
+                "precio": 23840
+            },
+            {
+                "fecha": "2026-09-13 16:55:33",
                 "precio": 23840
             }
         ]
