@@ -380,7 +380,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 19800,
+        "precio_actual": 18730,
         "estado": "Disponible",
         "historial": [
             {
@@ -650,6 +650,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 19800
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 18730
             }
         ]
     },
@@ -923,6 +927,10 @@
             },
             {
                 "fecha": "2026-09-13 16:55:33",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
                 "precio": 9090
             }
         ]
@@ -1352,6 +1360,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 18000
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 18000
             }
         ]
     },
@@ -1470,7 +1482,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 22810,
+        "precio_actual": 21090,
         "estado": "Disponible",
         "historial": [
             {
@@ -1740,6 +1752,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 22810
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 21090
             }
         ]
     },
@@ -2014,11 +2030,15 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 32270
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 32270
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 30320,
+        "precio_actual": 30760,
         "estado": "Disponible",
         "historial": [
             {
@@ -2288,6 +2308,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 30320
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 30760
             }
         ]
     },
@@ -2506,11 +2530,15 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 0
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 33590,
+        "precio_actual": 34070,
         "estado": "Disponible",
         "historial": [
             {
@@ -2708,6 +2736,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 33590
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 34070
             }
         ]
     },
@@ -2910,11 +2942,15 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 23840,
+        "precio_actual": 22760,
         "estado": "Disponible",
         "historial": [
             {
@@ -3036,6 +3072,10 @@
             {
                 "fecha": "2026-09-13 16:55:33",
                 "precio": 23840
+            },
+            {
+                "fecha": "2026-09-14 18:29:53",
+                "precio": 22760
             }
         ]
     }
