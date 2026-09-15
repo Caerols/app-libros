@@ -380,7 +380,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 18730,
+        "precio_actual": 20020,
         "estado": "Disponible",
         "historial": [
             {
@@ -654,6 +654,10 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 18730
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 20020
             }
         ]
     },
@@ -931,6 +935,10 @@
             },
             {
                 "fecha": "2026-09-14 18:29:53",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
                 "precio": 9090
             }
         ]
@@ -1364,6 +1372,10 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 18000
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 18000
             }
         ]
     },
@@ -1482,7 +1494,7 @@
         ]
     },
     "El mito de Sísifo (edición especial en tapa dura) - Albert Camus - Debolsillo": {
-        "precio_actual": 21090,
+        "precio_actual": 22810,
         "estado": "Disponible",
         "historial": [
             {
@@ -1756,6 +1768,10 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 21090
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 22810
             }
         ]
     },
@@ -2033,6 +2049,10 @@
             },
             {
                 "fecha": "2026-09-14 18:29:53",
+                "precio": 32270
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
                 "precio": 32270
             }
         ]
@@ -2312,12 +2332,16 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 30760
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 30760
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 0,
-        "estado": "Agotado",
+        "precio_actual": 164780,
+        "estado": "Disponible",
         "historial": [
             {
                 "fecha": "2026-07-23 15:16:47",
@@ -2534,6 +2558,10 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 0
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 164780
             }
         ]
     },
@@ -2739,6 +2767,10 @@
             },
             {
                 "fecha": "2026-09-14 18:29:53",
+                "precio": 34070
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
                 "precio": 34070
             }
         ]
@@ -2946,11 +2978,15 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 22760,
+        "precio_actual": 24320,
         "estado": "Disponible",
         "historial": [
             {
@@ -3076,6 +3112,10 @@
             {
                 "fecha": "2026-09-14 18:29:53",
                 "precio": 22760
+            },
+            {
+                "fecha": "2026-09-15 17:37:18",
+                "precio": 24320
             }
         ]
     }
