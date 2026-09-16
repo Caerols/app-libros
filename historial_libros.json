@@ -380,7 +380,7 @@
         ]
     },
     "Alicia En El País de Las Maravillas - Lewis Carroll - Editorial Alma": {
-        "precio_actual": 20020,
+        "precio_actual": 20110,
         "estado": "Disponible",
         "historial": [
             {
@@ -658,6 +658,10 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 20020
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 20110
             }
         ]
     },
@@ -939,6 +943,10 @@
             },
             {
                 "fecha": "2026-09-15 17:37:18",
+                "precio": 9090
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
                 "precio": 9090
             }
         ]
@@ -1376,6 +1384,10 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 18000
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 18000
             }
         ]
     },
@@ -1772,11 +1784,15 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 22810
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 22810
             }
         ]
     },
     "Tokio Blues td - Haruki Murakami - Tusquets Infantil": {
-        "precio_actual": 32270,
+        "precio_actual": 32960,
         "estado": "Disponible",
         "historial": [
             {
@@ -2054,11 +2070,15 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 32270
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 32960
             }
         ]
     },
     "el lobo estepario - hermann hesse - ": {
-        "precio_actual": 30760,
+        "precio_actual": 37080,
         "estado": "Disponible",
         "historial": [
             {
@@ -2336,11 +2356,15 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 30760
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 37080
             }
         ]
     },
     "The Book: The Ultimate Guide to Rebuilding a Civilization - Inspirational Science Books for Adults - Unique Artifact - Knowledge Encyclopedia With Over 400 Pages of Detailed & Catchy Illustrations - Hungry Minds - Scratching Shed (en Inglés)": {
-        "precio_actual": 164780,
+        "precio_actual": 174450,
         "estado": "Disponible",
         "historial": [
             {
@@ -2562,11 +2586,15 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 164780
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 174450
             }
         ]
     },
     "1984. Novela gráfica - Matyáis Namai - Blume": {
-        "precio_actual": 34070,
+        "precio_actual": 41080,
         "estado": "Disponible",
         "historial": [
             {
@@ -2772,6 +2800,10 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 34070
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 41080
             }
         ]
     },
@@ -2982,11 +3014,15 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 41150
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 41150
             }
         ]
     },
     "Siddhartha (edición especial en tapa dura) - Hesse Hermann - DEBOLSILLO": {
-        "precio_actual": 24320,
+        "precio_actual": 24490,
         "estado": "Disponible",
         "historial": [
             {
@@ -3116,6 +3152,10 @@
             {
                 "fecha": "2026-09-15 17:37:18",
                 "precio": 24320
+            },
+            {
+                "fecha": "2026-09-16 17:34:54",
+                "precio": 24490
             }
         ]
     }
